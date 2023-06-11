@@ -19,19 +19,19 @@ body {
 }
 
 
-.container {
+.main {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
     margin-bottom: 10rem;
 }
 
-.container__description{
+.main__description{
     font-size: 1.2rem;
     width: 40%;
     font-weight: bold;
 }
-.container__btn {
+.main__btn {
     padding: 10px 20px;
     background-color: #85705e;
     color: #ffffff;
@@ -41,7 +41,7 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.container__btn:hover {
+.main__btn:hover {
     background-color: #6A513B;
 }
 
@@ -82,7 +82,7 @@ span{
         width: 50%;
     }
 
-    .container {
+    .main {
         flex-direction: column;
         align-items: center;
         margin-bottom: 2rem;
@@ -91,7 +91,7 @@ span{
         border-radius: 5px;
     }
 
-    .container__description {
+    .main__description {
         width: 80%;
         text-align: center;
     }
