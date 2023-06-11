@@ -15,7 +15,7 @@ This project is a landing page dedicated to Groot, the lovable character from th
 
 ## How to View the Page
 
-Click here to see the page: [Groot]
+Click here to see the page: [Groot](https://enzocam7.github.io/groot-lenio/)
 
 ## License
 
